@@ -1,5 +1,13 @@
 [« Etusivulle](https://20tiko4.github.io/tiimiesittely/)
 
+
+# Raakaversio
+
+Tällä sivulla suurin osa asioista vain nopeasti idoita heiteltynä kun näimme viime ke paikan päällä. Eli nämä **kaikki eivät päde**, vaan muilla sivuilla käydyt asiat ovat esiteltytarkemmin.
+
+
+## Muistiinpanot tapaamiskerralta
+
 - Esittelyitä siellä täällä kesken luontodokkarin
 - Luontodokkari (voice over rauhallinen ääni)
 - Esittely tyypeistä 1ksin - 3misin 
