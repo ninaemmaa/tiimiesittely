@@ -2,6 +2,16 @@
 
 Tämän repositoryn idea on helpottaa tietojen löytämistä videoon liittyen.
 
+## Kuvausajat
+
+Kuvaamme viikon **39** aikana otokset.
+
+- Maanantaina tietokantojen + ruokailun jälkeen ennen ohjelmointia
+- Tiistaina ohjelmoinnin jälkeen
+- Keskiviikkona tiimityön jälkeen
+- Torstaina **ei päätetty, ei lähitunteja**
+- Perjantaina englannin jälkeen
+
 ## Raakaversio, tehtiin 22.9.2021
 
 Koulupäivän päätteeksi teimme raakaversion suunnitelmasta. Suunnitelman löydät [[täältä]](https://20tiko4.github.io/tiimiesittely/raaka)
