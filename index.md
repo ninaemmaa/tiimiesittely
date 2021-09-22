@@ -4,8 +4,7 @@ Tämän repositoryn idea on helpottaa tietojen löytämistä videoon liittyen.
 
 ## Raakaversio, tehtiin 22.9.2021
 
-Koulupäivän päätteeksi teimme raakaversion suunnitelmasta. Suunnitelman löydät tiedostosta [raaka.md](https://github.com/20TIKO4/tiimiesittely/blob/master/raaka.md):
-https://github.com/20TIKO4/tiimiesittely/blob/master/raaka.md
+Koulupäivän päätteeksi teimme raakaversion suunnitelmasta. Suunnitelman löydät [[täältä]](https://20tiko4.github.io/tiimiesittely/raaka)
 
 ## Tehtävänanto
 
@@ -17,7 +16,7 @@ Moodlesta: [Linkki kurssisivulle](https://moodle.tuni.fi/mod/page/view.php?id=12
 > 
 > Tärkeää on, että jokainen opiskelija pääsee ääneen, esittelee itsensä ja vaikkapa harrastuksensa. Voit vaikkapa käyttää apunasi edellisen tehtävän piirrosta.
 > 
-> Kirjaa kunkin esiintyjän nimi ja aloitusaika tekstitiedostoon. Jaa video&tekstitiedosto valmentaja-opettajalle.
+> Kirjaa kunkin esiintyjän nimi ja aloitusaika tekstitiedostoon. Jaa video & tekstitiedosto valmentaja-opettajalle.
 > 
 > Tarkoitus on tuoda esiin muille tikolaisille, henkilökunnalle ja opiskelijoille, millainen tämän vuoden ryhmä on.
 > 
