@@ -1,6 +1,10 @@
 # 20TIKO4-luokan esittelyvideo
 
-Tämän repositoryn idea on helpottaa tietojen löytämistä videoon liittyen.
+Tämän sivuston idea on helpottaa tietojen löytämistä videoon liittyen.
+
+## Teema
+
+Teemanamme on **luontodokumentti**, tikot luontaisessa ympäristössään
 
 ## Kuvausajat
 
