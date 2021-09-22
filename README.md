@@ -4,7 +4,7 @@ Tämän repositoryn idea on helpottaa tietojen löytämistä videoon liittyen.
 
 ## Tehtävänanto
 
-Moodlesta:
+Moodlesta: [Linkki kurssisivulle](https://moodle.tuni.fi/mod/page/view.php?id=1224493)
 
 > Tiimiesittely ke 6.10. (juhlasalissa/Teams koko tiko) video, jossa jokainen tiimi esittelee itsensä.
 > 
