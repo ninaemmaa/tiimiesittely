@@ -12,6 +12,12 @@ Kuvaamme viikon **39** aikana otokset.
 - Torstaina **ei päätetty, ei lähitunteja**
 - Perjantaina englannin jälkeen
 
+## Jaetut roolit
+Tähän mennessä jaetut roolit:
+- **Juontaja:** Ville Salin
+- **Kuvaaja:** Juuso Korhonen
+- **Editointi:** Teemu Herrala
+
 ## Raakaversio, tehtiin 22.9.2021
 
 Koulupäivän päätteeksi teimme raakaversion suunnitelmasta. Suunnitelman löydät [[täältä]](https://20tiko4.github.io/tiimiesittely/raaka)
