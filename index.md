@@ -1,6 +1,6 @@
 # 20TIKO4-luokan esittelyvideo
 
-Tämän sivuston idea on helpottaa tietojen löytämistä videoon liittyen.
+Tämän repositoryn idea on helpottaa tietojen löytämistä videoon liittyen.
 
 ## Tehtävänanto
 
