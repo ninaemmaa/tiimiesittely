@@ -1,8 +1,8 @@
-#20TIKO4-luokan esittelyvideo
+# 20TIKO4-luokan esittelyvideo
 
 Tämän sivuston idea on helpottaa tietojen löytämistä videoon liittyen.
 
-##Tehtävänanto
+## Tehtävänanto
 
 Moodlesta:
 
