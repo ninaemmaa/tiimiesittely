@@ -16,6 +16,8 @@ Kuvaamme viikon **39** aikana otokset.
 - Torstaina **ei päätetty, ei lähitunteja**
 - Perjantaina englannin jälkeen
 
+Ilmottaudu Discord-palvelimellamme [[täällä]](https://discord.com/channels/879253969938034698/890215663824683080/890282770063060994)
+
 ## Jaetut roolit
 Tähän mennessä jaetut roolit:
 - **Juontaja:** Ville Salin
