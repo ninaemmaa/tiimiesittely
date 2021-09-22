@@ -2,6 +2,11 @@
 
 Tämän repositoryn idea on helpottaa tietojen löytämistä videoon liittyen.
 
+## Raakaversio, tehtiin 22.9.2021
+
+Koulupäivän päätteeksi teimme raakaversion suunnitelmasta. Suunnitelman löydät tiedostosta [raaka.md](https://github.com/20TIKO4/tiimiesittely/blob/master/raaka.md):
+https://github.com/20TIKO4/tiimiesittely/blob/master/raaka.md
+
 ## Tehtävänanto
 
 Moodlesta: [Linkki kurssisivulle](https://moodle.tuni.fi/mod/page/view.php?id=1224493)
