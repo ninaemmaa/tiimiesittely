@@ -16,7 +16,7 @@ Kuvaamme viikon **39** aikana otokset.
 - Torstaina **ei päätetty, ei lähitunteja** *(Katsomme lähempänä onko järkeä kokoontua vain tätä varten ja millä kokoonpanolla)*
 - Perjantaina englannin jälkeen
 
-Ilmottaudu Discord-palvelimellamme [[täällä]](https://discord.com/channels/879253969938034698/890215663824683080/890282770063060994)
+Ilmottaudu Discord-palvelimellamme [[täällä]](https://discord.com/channels/879253969938034698/890215663824683080/890282770063060994) (=Discord-kanava #videotiimiesittelyhomma)
 
 ## Jaetut roolit
 Tähän mennessä jaetut roolit:
