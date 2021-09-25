@@ -1,4 +1,4 @@
-[« Etusivulle](https://20tiko4.github.io/tiimiesittely/)
+[« Etusivulle](https://21tiko4.github.io/tiimiesittely/)
 
 # Ohjeet oman käsikirjoituksen toteutukselle
 - Teemaa: **luontodokumentti tikoista**
@@ -19,5 +19,5 @@ Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi
 
 
 ## Käsikirjoitukset
-- [[Aleksi]](https://20tiko4.github.io/tiimiesittely/scripts/aleksi): tunnin tauolla laittaa läppärin kiinni ja poistuu juhlasaliin soittamaan pianoa
-- [[Juuso]](https://20tiko4.github.io/tiimiesittely/scripts/juuso): hukkuu yrittäjänä toimimisen laskuihin ja turhautuu kirjanpidosta
+- [[Aleksi]](https://21tiko4.github.io/tiimiesittely/scripts/aleksi): tunnin tauolla laittaa läppärin kiinni ja poistuu juhlasaliin soittamaan pianoa
+- [[Juuso]](https://21tiko4.github.io/tiimiesittely/scripts/juuso): hukkuu yrittäjänä toimimisen laskuihin ja turhautuu kirjanpidosta

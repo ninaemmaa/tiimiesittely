@@ -1,4 +1,4 @@
-# 20TIKO4-luokan esittelyvideo
+# 21tiko4-luokan esittelyvideo
 
 Tämän sivuston idea on helpottaa tietojen löytämistä videoon liittyen.
 
@@ -22,7 +22,7 @@ Ilmottaudu Discord-palvelimellamme [[täällä]](https://discord.com/channels/87
 Kirjoitamme tarkemman käsikirjoituksen myöhemmin.
 
 **Tee oman kohtauksesi käsikirjoitus tämän ohjeen mukaan ASAP:**
-[https://20tiko4.github.io/tiimiesittely/scripts/](https://20tiko4.github.io/tiimiesittely/scripts/)
+[https://21tiko4.github.io/tiimiesittely/scripts/](https://21tiko4.github.io/tiimiesittely/scripts/)
 
 ## Jaetut roolit
 Tähän mennessä jaetut roolit:
@@ -32,7 +32,7 @@ Tähän mennessä jaetut roolit:
 
 ## Raakaversio, tehtiin 22.9.2021
 
-Koulupäivän päätteeksi teimme raakaversion suunnitelmasta. Suunnitelman löydät [[täältä]](https://20tiko4.github.io/tiimiesittely/raaka)
+Koulupäivän päätteeksi teimme raakaversion suunnitelmasta. Suunnitelman löydät [[täältä]](https://21tiko4.github.io/tiimiesittely/raaka)
 
 ## Tehtävänanto
 
