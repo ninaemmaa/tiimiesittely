@@ -13,6 +13,8 @@
 - Kirjoita vielä tarkemmin tehty käsikirjoitus, jossa kerrot mitä juontaja/sinä sanotte, mitä teet ja mikä on suunnitelma
 - Tee käsikirjoitus tekstitiedostoon `nimi.md` ja lähetä juusolle. Voit käyttää [markdownia](https://www.markdownguide.org/cheat-sheet/) tekstin muotoiluun
 
+Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi itsellesi sketsiä/tapahtumaa, kysele Discordissa apua. Me halutaan tikojen paras esittelyvideo! :) 
+
 
 ## Käsikirjoitukset
 - [[Juuso]](https://20tiko4.github.io/tiimiesittely/scripts/juuso): hukkuu yrittäjänä toimimisen laskuihin ja turhautuu kirjanpidosta
