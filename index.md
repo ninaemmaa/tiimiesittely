@@ -18,6 +18,12 @@ Kuvaamme viikon **39** aikana otokset.
 
 Ilmottaudu Discord-palvelimellamme [[täällä]](https://discord.com/channels/879253969938034698/890215663824683080/890282770063060994) (=Discord-kanava #esittelyvideo)
 
+# Käsikirjoitus
+Kirjoitamme tarkemman käsikirjoituksen myöhemmin.
+
+**Tee oman kohtauksesi käsikirjoitus tämän ohjeen mukaan ASAP:**
+https://20tiko4.github.io/tiimiesittely/scripts/
+
 ## Jaetut roolit
 Tähän mennessä jaetut roolit:
 - **Juontaja:** Ville Salin
