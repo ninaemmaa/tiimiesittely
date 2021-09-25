@@ -22,7 +22,7 @@ Ilmottaudu Discord-palvelimellamme [[täällä]](https://discord.com/channels/87
 Kirjoitamme tarkemman käsikirjoituksen myöhemmin.
 
 **Tee oman kohtauksesi käsikirjoitus tämän ohjeen mukaan ASAP:**
-https://20tiko4.github.io/tiimiesittely/scripts/
+[https://20tiko4.github.io/tiimiesittely/scripts/](https://20tiko4.github.io/tiimiesittely/scripts/)
 
 ## Jaetut roolit
 Tähän mennessä jaetut roolit:
