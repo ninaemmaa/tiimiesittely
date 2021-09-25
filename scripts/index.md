@@ -14,5 +14,5 @@
 - Tee käsikirjoitus tekstitiedostoon `nimi.md` ja lähetä juusolle. Voit käyttää [markdownia](https://www.markdownguide.org/cheat-sheet/) tekstin muotoiluun
 
 
-# Käsikirjoitukset
+## Käsikirjoitukset
 - [[Juuso]](https://20tiko4.github.io/tiimiesittely/scripts/juuso): hukkuu yrittäjänä toimimisen laskuihin ja turhautuu kirjanpidosta
