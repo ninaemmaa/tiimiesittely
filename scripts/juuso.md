@@ -1,4 +1,4 @@
-[« Etusivulle](https://20tiko4.github.io/tiimiesittely/)
+[« Etusivulle](https://20tiko4.github.io/tiimiesittely/) [« Ohjeisiin](https://20tiko4.github.io/tiimiesittely/scripts/)
 
 # Juuso Korhonen
 - Juontaja esittelee "Tässä näemme tyypillisen yrittäjän, Juuso Korhosen - joka on kirjanpitonsa kimpussa."
