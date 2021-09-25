@@ -21,4 +21,4 @@ Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi
 ## Käsikirjoitukset
 - [[Aleksi]](https://21tiko4.github.io/tiimiesittely/scripts/aleksi): tunnin tauolla laittaa läppärin kiinni ja poistuu juhlasaliin soittamaan pianoa
 - [[Juuso]](https://21tiko4.github.io/tiimiesittely/scripts/juuso): hukkuu yrittäjänä toimimisen laskuihin ja turhautuu kirjanpidosta
-- [[Lari]](https://21tiko4.github.io/tiimiesittely/scripts/lari): menossa soittamaan pianoa mutta Aleksi ehtikin ensin
+- [[Lari]](https://21tiko4.github.io/tiimiesittely/scripts/lari.md): menossa soittamaan pianoa mutta Aleksi ehtikin ensin
