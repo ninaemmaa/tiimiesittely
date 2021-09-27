@@ -20,5 +20,8 @@ Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi
 
 ## Käsikirjoitukset
 - [[Aleksi]](https://21tiko4.github.io/tiimiesittely/scripts/aleksi): tunnin tauolla laittaa läppärin kiinni ja poistuu juhlasaliin soittamaan pianoa
+- [Hilla]: juttelee itsekseen tietokoneelle sängyn tilaamisesta ikeasta, Aleksi taustalla lähtee soittaan pianoa
+- [Inka]: koodaa hevosmaski päässä luokassa tehtäviä
 - [[Juuso]](https://21tiko4.github.io/tiimiesittely/scripts/juuso): hukkuu yrittäjänä toimimisen laskuihin ja turhautuu kirjanpidosta
 - [[Lari]](https://21tiko4.github.io/tiimiesittely/scripts/lari): menossa soittamaan pianoa mutta Aleksi ehtikin ensin
+- [Vilma, Viivi & Mira]: Vilma luokan vastaava ja Viivi & Mira sihteereinä cool gangissa ratkomassa luokan ongelmia
