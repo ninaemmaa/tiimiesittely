@@ -31,3 +31,4 @@ Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi
 - (Mira): Myöhässä & Zoomissa kuntosalilla
 - (Hilla): juttelee itsekseen tietokoneelle sängyn tilaamisesta ikeasta, Aleksi taustalla lähtee soittaan pianoa
 - (Inka): koodaa hevosmaski päässä luokassa tehtäviä
+- 
