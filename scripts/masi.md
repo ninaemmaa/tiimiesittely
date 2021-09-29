@@ -1,6 +1,6 @@
 [« Etusivulle](https://21tiko4.github.io/tiimiesittely/) [« Ohjeisiin](https://21tiko4.github.io/tiimiesittely/scripts/)
 
-# Masi  Soranummi
+# Masi Soranummi
 
 - Masia kuvataan kauempaa (ovelta?)
 - Juontaja: "Tässä näemme Masin, vapaa-ajalaan hän tykkää pelailla videopelejä ja..."
