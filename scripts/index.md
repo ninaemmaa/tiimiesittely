@@ -29,6 +29,6 @@ Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi
 - [[Ville]](https://21tiko4.github.io/tiimiesittely/scripts/ville): Kiirehtii paniikissa luennolle päiväunilta herätessään
 - (Vilma & Viivi): Vilma luokan vastaava ja Viivi & Mira sihteereinä cool gangissa ratkomassa luokan ongelmia
 - (Mira): Myöhässä & Zoomissa kuntosalilla
+- (Nina): Kuvaa ja editoi itse: alussa: koodaa meikin ja myöhästyy koulusta
 - DONE(Hilla): juttelee itsekseen tietokoneelle sängyn tilaamisesta ikeasta, Aleksi taustalla lähtee soittaan pianoa
-- DONE (Inka): koodaa hevosmaski päässä luokassa tehtäviä
-- 
+- DONE (Inka): koodaa hevosmaski päässä luokassa tehtäviä (lopussa kuva naamasta ja maskista)
