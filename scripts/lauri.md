@@ -2,6 +2,28 @@
 
 # Lauri Vahosalmi
 
+Juontaja aloittaa klipin alussa:
+
+"Tässä on Lauri. Ylioppilas, artesaani, lavasterakentaja ja vaikka mitä muuta. Opiskellut myös elokuva- ja TV-alaa sekä musiik..." (Lauri huomaa kameran viimeisten sanojen aikana, keskeyttäen juontajan. Alkuvideoo voi vaik hidastaa (tms) tarvittaessa)
+.
+.
+.
+Lisäksi juontaja siihen, kun Laurille annetaan kamera käteen: "Mitäköhän tästäkin tulee..." // **Vai olisko parempi? (Ville voi valita) -->** // "(Umm...)Olikohan tämä nyt hyvä idea..."
+.
+.
+Klipin loppuun vaikka juontajan "Noniin, piti sekin sitten testata" tai joku muu naseva kommentti, mitä Ville ajattelisi tilanteesta.
+
+
+
+
+
++ Jos tarvii tittelin videoon, niin vaikka: Lauri "Jokapaikanhöylä" (tai sit vaihtoehtoisesti "Yleisnero")
+
+xDD
+
+
+## Alkuperäinen
+
 Juontaja esittelee alkuklipin aikana (saa keksiä jotain hauskaa sanottavaa)
 
 Alkuklipissä katon vaik Dota2 -streamii Twitchistä...(jos ei oo parempii ideoit)
