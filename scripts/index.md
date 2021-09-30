@@ -20,12 +20,13 @@ Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi
 
 ## Käsikirjoitukset
 - DONE [[Aleksi]](https://21tiko4.github.io/tiimiesittely/scripts/aleksi): tunnin tauolla laittaa läppärin kiinni ja poistuu juhlasaliin soittamaan pianoa
+- DONE [[Jesse]](https://21tiko4.github.io/tiimiesittely/scripts/jesse): devoluution uhri, urheilullinen tiko
+- [[Joona]](https://21tiko4.github.io/tiimiesittely/scripts/joona): Striimailee, mutta pakotetaan kouluun tai heitetään pihalle kurssista
 - [[Juuso]](https://21tiko4.github.io/tiimiesittely/scripts/juuso): hukkuu yrittäjänä toimimisen laskuihin ja turhautuu kirjanpidosta
+- DONE [[Kristian]](https://21tiko4.github.io/tiimiesittely/scripts/kristian): Kiirehtii paniikissa luennolle päiväunilta herätessään
 - DONE [[Lari]](https://21tiko4.github.io/tiimiesittely/scripts/lari): menossa soittamaan pianoa mutta Aleksi ehtikin ensin
 - DONE [[Lauri]](https://21tiko4.github.io/tiimiesittely/scripts/lauri): ei mitään hajua mitä tapahtuu, esittelee kuvausryhmän
 - DONE [[Masi]](https://21tiko4.github.io/tiimiesittely/scripts/masi): vaan pelaa, kuvausryhmä kyllästyy
-- DONE [[Jesse]](https://21tiko4.github.io/tiimiesittely/scripts/jesse): devoluution uhri, urheilullinen tiko
-- DONE [[Kristian]](https://21tiko4.github.io/tiimiesittely/scripts/kristian): Kiirehtii paniikissa luennolle päiväunilta herätessään
 - DONE [[Ville]](https://21tiko4.github.io/tiimiesittely/scripts/ville): Kiirehtii paniikissa luennolle päiväunilta herätessään
 - (Vilma & Viivi): Vilma luokan vastaava ja Viivi & Mira sihteereinä cool gangissa ratkomassa luokan ongelmia
 - (Mira): Myöhässä & Zoomissa kuntosalilla
