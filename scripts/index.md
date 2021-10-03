@@ -38,5 +38,5 @@ Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi
 - **DONE** [[Mira]](https://21tiko4.github.io/tiimiesittely/scripts/mira): "seuraa" etätuntia zoomista, sittene menee salille viestin saatuaan
 - **DONE** [[Valtteri]](https://21tiko4.github.io/tiimiesittely/scripts/valtteri): Tiko menee lomalle ja kuvittelee kaikkea kivaa - mutta päätyy nukkumaan
 -  **KÄSSÄRI JA VIDEO PUUTTUU** (Nina): Kuvaa ja editoi itse: alussa: koodaa meikin ja myöhästyy koulusta
-- **DONE** [[Ville]](https://21tiko4.github.io/tiimiesittely/scripts/ville): Kiirehtii paniikissa luennolle päiväunilta herätessään
+- **DONE** [[Ville]](https://21tiko4.github.io/tiimiesittely/scripts/ville): Juttelee omiaan, eikä kaveri kuuntele
 -  **KÄSSÄRI PUUTTUU** (Vilma & Viivi): Vilma luokan vastaava ja Viivi & Mira sihteereinä cool gangissa ratkomassa luokan ongelmia
