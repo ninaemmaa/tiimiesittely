@@ -22,18 +22,23 @@ Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi
 - **DONE** [[Aleksi]](https://21tiko4.github.io/tiimiesittely/scripts/aleksi): tunnin tauolla laittaa läppärin kiinni ja poistuu juhlasaliin soittamaan pianoa
 - **DONE** [[Antti]](https://21tiko4.github.io/tiimiesittely/scripts/antti): ei suostu kuvattavaksi
 - **DONE** [[Hilla]](https://21tiko4.github.io/tiimiesittely/scripts/hilla): juttelee itsekseen tietokoneelle sängyn tilaamisesta ikeasta, Aleksi taustalla lähtee soittaan pianoa
-- (Inka): koodaa hevosmaski päässä luokassa tehtäviä (lopussa kuva naamasta ja maskista)
+- **KÄSSÄRI JA VIDEO PUUTTUU** (Arxhenda): ???
+- **KÄSSÄRI PUUTTUU** (Inka): koodaa hevosmaski päässä luokassa tehtäviä (lopussa kuva naamasta ja maskista)
+- **KÄSSÄRI JA VIDEO PUUTTUU** (Janne): ???
+- **KÄSSÄRI PUUTTUU** (Jari): tulee kouluun pommilla ja pesee hampaat vessassa
 - **DONE** [[Jenny]](https://21tiko4.github.io/tiimiesittely/scripts/jenny): Guru koodailee aina, mutta katsookin netflixiä
 - **DONE** [[Jesse]](https://21tiko4.github.io/tiimiesittely/scripts/jesse): devoluution uhri, urheilullinen tiko
-- [[Joona]](https://21tiko4.github.io/tiimiesittely/scripts/joona): Striimailee, mutta pakotetaan kouluun tai heitetään pihalle kurssista
-- [[Juuso]](https://21tiko4.github.io/tiimiesittely/scripts/juuso): hukkuu yrittäjänä toimimisen laskuihin ja turhautuu kirjanpidosta
+- **VIDEO PUUTTUU** [[Joona]](https://21tiko4.github.io/tiimiesittely/scripts/joona): Striimailee, mutta pakotetaan kouluun tai heitetään pihalle kurssista
+- **VIDEO PUUTTUU** [[Juuso]](https://21tiko4.github.io/tiimiesittely/scripts/juuso): hukkuu yrittäjänä toimimisen laskuihin ja turhautuu kirjanpidosta
 - **DONE** [[Kristian]](https://21tiko4.github.io/tiimiesittely/scripts/kristian): Kiirehtii paniikissa luennolle päiväunilta herätessään
 - **DONE** [[Lari]](https://21tiko4.github.io/tiimiesittely/scripts/lari): menossa soittamaan pianoa mutta Aleksi ehtikin ensin
 - **DONE** [[Lauri]](https://21tiko4.github.io/tiimiesittely/scripts/lauri): ei mitään hajua mitä tapahtuu, esittelee kuvausryhmän
 - **DONE** [[Masi]](https://21tiko4.github.io/tiimiesittely/scripts/masi): vaan pelaa, kuvausryhmä kyllästyy
 - **DONE** [[Matti]](https://21tiko4.github.io/tiimiesittely/scripts/matti): Nukun, herään, katon että oon myöhäs, huudan.
 - **DONE** [[Mira]](https://21tiko4.github.io/tiimiesittely/scripts/mira): "seuraa" etätuntia zoomista, sittene menee salille viestin saatuaan
-- [[Valtteri]](https://21tiko4.github.io/tiimiesittely/scripts/valtteri): Tiko menee lomalle ja kuvittelee kaikkea kivaa - mutta päätyy nukkumaan
-- (Nina): Kuvaa ja editoi itse: alussa: koodaa meikin ja myöhästyy koulusta
+- **VIDEO PUUTTUU** [[Valtteri]](https://21tiko4.github.io/tiimiesittely/scripts/valtteri): Tiko menee lomalle ja kuvittelee kaikkea kivaa - mutta päätyy nukkumaan
+-  **KÄSSÄRI JA VIDEO PUUTTUU** (Nina): Kuvaa ja editoi itse: alussa: koodaa meikin ja myöhästyy koulusta
+- **KÄSSÄRI JA VIDEO PUUTTUU** (Saimi): ???
+- **KÄSSÄRI JA VIDEO PUUTTUU** (Tatu): ???
 - **DONE** [[Ville]](https://21tiko4.github.io/tiimiesittely/scripts/ville): Kiirehtii paniikissa luennolle päiväunilta herätessään
-- (Vilma & Viivi): Vilma luokan vastaava ja Viivi & Mira sihteereinä cool gangissa ratkomassa luokan ongelmia
+-  **KÄSSÄRI JA VIDEO PUUTTUU** (Vilma & Viivi): Vilma luokan vastaava ja Viivi & Mira sihteereinä cool gangissa ratkomassa luokan ongelmia
