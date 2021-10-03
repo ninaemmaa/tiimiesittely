@@ -24,7 +24,7 @@ Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi
 - **DONE** [[Antti]](https://21tiko4.github.io/tiimiesittely/scripts/antti): ei suostu kuvattavaksi
 - **DONE** [[Hilla]](https://21tiko4.github.io/tiimiesittely/scripts/hilla): juttelee itsekseen tietokoneelle sängyn tilaamisesta ikeasta, Aleksi taustalla lähtee soittaan pianoa
 - **KÄSSÄRI PUUTTUU** (Inka): koodaa hevosmaski päässä luokassa tehtäviä (lopussa kuva naamasta ja maskista)
-- **KÄSSÄRI PUUTTUU** (Janne): Katselee tietoverkkotuntia ja siirtyy peliin
+- **DONE** [[Janne]](https://21tiko4.github.io/tiimiesittely/scripts/janne): Katselee tietoverkkotuntia ja siirtyy peliin
 - **KÄSSÄRI PUUTTUU** (Jari): tulee kouluun pommilla ja pesee hampaat vessassa
 - **DONE** [[Jenny]](https://21tiko4.github.io/tiimiesittely/scripts/jenny): Guru koodailee aina, mutta katsookin netflixiä
 - **DONE** [[Jesse]](https://21tiko4.github.io/tiimiesittely/scripts/jesse): devoluution uhri, urheilullinen tiko
