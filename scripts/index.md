@@ -19,18 +19,18 @@ Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi
 
 
 ## Käsikirjoitukset
-- DONE [[Aleksi]](https://21tiko4.github.io/tiimiesittely/scripts/aleksi): tunnin tauolla laittaa läppärin kiinni ja poistuu juhlasaliin soittamaan pianoa
-- DONE [[Hilla]](https://21tiko4.github.io/tiimiesittely/scripts/hilla): juttelee itsekseen tietokoneelle sängyn tilaamisesta ikeasta, Aleksi taustalla lähtee soittaan pianoa
-- DONE [[Jesse]](https://21tiko4.github.io/tiimiesittely/scripts/jesse): devoluution uhri, urheilullinen tiko
+- **DONE** [[Aleksi]](https://21tiko4.github.io/tiimiesittely/scripts/aleksi): tunnin tauolla laittaa läppärin kiinni ja poistuu juhlasaliin soittamaan pianoa
+- **DONE** [[Hilla]](https://21tiko4.github.io/tiimiesittely/scripts/hilla): juttelee itsekseen tietokoneelle sängyn tilaamisesta ikeasta, Aleksi taustalla lähtee soittaan pianoa
+- **DONE** [[Jesse]](https://21tiko4.github.io/tiimiesittely/scripts/jesse): devoluution uhri, urheilullinen tiko
 - [[Joona]](https://21tiko4.github.io/tiimiesittely/scripts/joona): Striimailee, mutta pakotetaan kouluun tai heitetään pihalle kurssista
 - [[Juuso]](https://21tiko4.github.io/tiimiesittely/scripts/juuso): hukkuu yrittäjänä toimimisen laskuihin ja turhautuu kirjanpidosta
-- DONE [[Kristian]](https://21tiko4.github.io/tiimiesittely/scripts/kristian): Kiirehtii paniikissa luennolle päiväunilta herätessään
-- DONE [[Lari]](https://21tiko4.github.io/tiimiesittely/scripts/lari): menossa soittamaan pianoa mutta Aleksi ehtikin ensin
-- DONE [[Lauri]](https://21tiko4.github.io/tiimiesittely/scripts/lauri): ei mitään hajua mitä tapahtuu, esittelee kuvausryhmän
-- DONE [[Masi]](https://21tiko4.github.io/tiimiesittely/scripts/masi): vaan pelaa, kuvausryhmä kyllästyy
+- **DONE** [[Kristian]](https://21tiko4.github.io/tiimiesittely/scripts/kristian): Kiirehtii paniikissa luennolle päiväunilta herätessään
+- **DONE** [[Lari]](https://21tiko4.github.io/tiimiesittely/scripts/lari): menossa soittamaan pianoa mutta Aleksi ehtikin ensin
+- **DONE** [[Lauri]](https://21tiko4.github.io/tiimiesittely/scripts/lauri): ei mitään hajua mitä tapahtuu, esittelee kuvausryhmän
+- **DONE** [[Masi]](https://21tiko4.github.io/tiimiesittely/scripts/masi): vaan pelaa, kuvausryhmä kyllästyy
 - [[Valtteri]](https://21tiko4.github.io/tiimiesittely/scripts/valtteri): Tiko menee lomalle ja kuvittelee kaikkea kivaa - mutta päätyy nukkumaan
-- DONE [[Ville]](https://21tiko4.github.io/tiimiesittely/scripts/ville): Kiirehtii paniikissa luennolle päiväunilta herätessään
+- **DONE** [[Ville]](https://21tiko4.github.io/tiimiesittely/scripts/ville): Kiirehtii paniikissa luennolle päiväunilta herätessään
 - (Vilma & Viivi): Vilma luokan vastaava ja Viivi & Mira sihteereinä cool gangissa ratkomassa luokan ongelmia
 - (Mira): Myöhässä & Zoomissa kuntosalilla
 - (Nina): Kuvaa ja editoi itse: alussa: koodaa meikin ja myöhästyy koulusta
-- DONE (Inka): koodaa hevosmaski päässä luokassa tehtäviä (lopussa kuva naamasta ja maskista)
+- (Inka): koodaa hevosmaski päässä luokassa tehtäviä (lopussa kuva naamasta ja maskista)
