@@ -20,6 +20,7 @@ Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi
 
 ## Käsikirjoitukset
 - **DONE** [[Aleksi]](https://21tiko4.github.io/tiimiesittely/scripts/aleksi): tunnin tauolla laittaa läppärin kiinni ja poistuu juhlasaliin soittamaan pianoa
+- **DONE** [[Antti]](https://21tiko4.github.io/tiimiesittely/scripts/antti): ei suostu kuvattavaksi
 - **DONE** [[Hilla]](https://21tiko4.github.io/tiimiesittely/scripts/hilla): juttelee itsekseen tietokoneelle sängyn tilaamisesta ikeasta, Aleksi taustalla lähtee soittaan pianoa
 - **DONE** [[Jesse]](https://21tiko4.github.io/tiimiesittely/scripts/jesse): devoluution uhri, urheilullinen tiko
 - [[Joona]](https://21tiko4.github.io/tiimiesittely/scripts/joona): Striimailee, mutta pakotetaan kouluun tai heitetään pihalle kurssista
