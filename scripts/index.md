@@ -19,6 +19,7 @@ Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi
 
 
 ## Käsikirjoitukset
+- **DONE** [[Aapo]](#): aapo esittelee itse itsensä
 - **DONE** [[Aleksi]](https://21tiko4.github.io/tiimiesittely/scripts/aleksi): tunnin tauolla laittaa läppärin kiinni ja poistuu juhlasaliin soittamaan pianoa
 - **DONE** [[Antti]](https://21tiko4.github.io/tiimiesittely/scripts/antti): ei suostu kuvattavaksi
 - **DONE** [[Hilla]](https://21tiko4.github.io/tiimiesittely/scripts/hilla): juttelee itsekseen tietokoneelle sängyn tilaamisesta ikeasta, Aleksi taustalla lähtee soittaan pianoa
