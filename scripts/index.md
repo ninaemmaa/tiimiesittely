@@ -24,7 +24,7 @@ Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi
 - **DONE** [[Antti]](https://21tiko4.github.io/tiimiesittely/scripts/antti): ei suostu kuvattavaksi
 - **DONE** [[Hilla]](https://21tiko4.github.io/tiimiesittely/scripts/hilla): juttelee itsekseen tietokoneelle sängyn tilaamisesta ikeasta, Aleksi taustalla lähtee soittaan pianoa
 - **KÄSSÄRI PUUTTUU** (Inka): koodaa hevosmaski päässä luokassa tehtäviä (lopussa kuva naamasta ja maskista)
-- **KÄSSÄRI JA VIDEO PUUTTUU** (Janne): ???
+- **KÄSSÄRI PUUTTUU** (Janne): Katselee tietoverkkotuntia ja siirtyy peliin
 - **KÄSSÄRI PUUTTUU** (Jari): tulee kouluun pommilla ja pesee hampaat vessassa
 - **DONE** [[Jenny]](https://21tiko4.github.io/tiimiesittely/scripts/jenny): Guru koodailee aina, mutta katsookin netflixiä
 - **DONE** [[Jesse]](https://21tiko4.github.io/tiimiesittely/scripts/jesse): devoluution uhri, urheilullinen tiko
@@ -38,7 +38,5 @@ Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi
 - **DONE** [[Mira]](https://21tiko4.github.io/tiimiesittely/scripts/mira): "seuraa" etätuntia zoomista, sittene menee salille viestin saatuaan
 - **DONE** [[Valtteri]](https://21tiko4.github.io/tiimiesittely/scripts/valtteri): Tiko menee lomalle ja kuvittelee kaikkea kivaa - mutta päätyy nukkumaan
 -  **KÄSSÄRI JA VIDEO PUUTTUU** (Nina): Kuvaa ja editoi itse: alussa: koodaa meikin ja myöhästyy koulusta
-- **KÄSSÄRI JA VIDEO PUUTTUU** (Saimi): ???
-- **KÄSSÄRI JA VIDEO PUUTTUU** (Tatu): ???
 - **DONE** [[Ville]](https://21tiko4.github.io/tiimiesittely/scripts/ville): Kiirehtii paniikissa luennolle päiväunilta herätessään
 -  **KÄSSÄRI PUUTTUU** (Vilma & Viivi): Vilma luokan vastaava ja Viivi & Mira sihteereinä cool gangissa ratkomassa luokan ongelmia
