@@ -36,9 +36,9 @@ Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi
 - **DONE** [[Masi]](https://21tiko4.github.io/tiimiesittely/scripts/masi): vaan pelaa, kuvausryhmä kyllästyy
 - **DONE** [[Matti]](https://21tiko4.github.io/tiimiesittely/scripts/matti): Nukun, herään, katon että oon myöhäs, huudan.
 - **DONE** [[Mira]](https://21tiko4.github.io/tiimiesittely/scripts/mira): "seuraa" etätuntia zoomista, sittene menee salille viestin saatuaan
-- **VIDEO PUUTTUU** [[Valtteri]](https://21tiko4.github.io/tiimiesittely/scripts/valtteri): Tiko menee lomalle ja kuvittelee kaikkea kivaa - mutta päätyy nukkumaan
+- **DONE** [[Valtteri]](https://21tiko4.github.io/tiimiesittely/scripts/valtteri): Tiko menee lomalle ja kuvittelee kaikkea kivaa - mutta päätyy nukkumaan
 -  **KÄSSÄRI JA VIDEO PUUTTUU** (Nina): Kuvaa ja editoi itse: alussa: koodaa meikin ja myöhästyy koulusta
 - **KÄSSÄRI JA VIDEO PUUTTUU** (Saimi): ???
 - **KÄSSÄRI JA VIDEO PUUTTUU** (Tatu): ???
 - **DONE** [[Ville]](https://21tiko4.github.io/tiimiesittely/scripts/ville): Kiirehtii paniikissa luennolle päiväunilta herätessään
--  **KÄSSÄRI JA VIDEO PUUTTUU** (Vilma & Viivi): Vilma luokan vastaava ja Viivi & Mira sihteereinä cool gangissa ratkomassa luokan ongelmia
+-  **KÄSSÄRI PUUTTUU** (Vilma & Viivi): Vilma luokan vastaava ja Viivi & Mira sihteereinä cool gangissa ratkomassa luokan ongelmia
