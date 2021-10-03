@@ -1,3 +1,5 @@
+[« Etusivulle](https://21tiko4.github.io/tiimiesittely/) [« Ohjeisiin](https://21tiko4.github.io/tiimiesittely/scripts/)
+
 # Valtteri Havula
 
 Juontaja sanoo "Ja pitäähän TIKOn joskus päästä lomailemaankin. Tässä näemme kotiin saapuvan Valtterin valmiina viettämään lomansa tuottoisasti."

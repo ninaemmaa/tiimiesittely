@@ -1,3 +1,7 @@
+[« Etusivulle](https://21tiko4.github.io/tiimiesittely/) [« Ohjeisiin](https://21tiko4.github.io/tiimiesittely/scripts/)
+
+# Joona Tervo
+
 Olisin kotona striimaamassa *(kuvaan itse sen striimauksen)* kunnes saan viestin, että pakko olla koulussa tai kurssi keskeytyy.
 
 1. *"Klo 11.30 Linnainmaalla"(Selostaja saa sanoa, mutta laitan siihen tekstin)* - "Siis miettikää, mun Joona Tervon pitäis olla koulussa tähän aikaan opiskelemassa, mutten kyllä tänäänkää jaksanu lähtee"
