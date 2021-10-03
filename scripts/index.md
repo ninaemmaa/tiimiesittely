@@ -31,6 +31,7 @@ Tärkeää on, että kaikki pääsee mukaan ja kaikilla on jotakin. Jos et keksi
 - **DONE** [[Lauri]](https://21tiko4.github.io/tiimiesittely/scripts/lauri): ei mitään hajua mitä tapahtuu, esittelee kuvausryhmän
 - **DONE** [[Masi]](https://21tiko4.github.io/tiimiesittely/scripts/masi): vaan pelaa, kuvausryhmä kyllästyy
 - **DONE** [[Matti]](https://21tiko4.github.io/tiimiesittely/scripts/matti): Nukun, herään, katon että oon myöhäs, huudan.
+- **DONE** [[Mira]](https://21tiko4.github.io/tiimiesittely/scripts/mira): "seuraa" etätuntia zoomista, sittene menee salille viestin saatuaan
 - [[Valtteri]](https://21tiko4.github.io/tiimiesittely/scripts/valtteri): Tiko menee lomalle ja kuvittelee kaikkea kivaa - mutta päätyy nukkumaan
 - **DONE** [[Ville]](https://21tiko4.github.io/tiimiesittely/scripts/ville): Kiirehtii paniikissa luennolle päiväunilta herätessään
 - (Vilma & Viivi): Vilma luokan vastaava ja Viivi & Mira sihteereinä cool gangissa ratkomassa luokan ongelmia
